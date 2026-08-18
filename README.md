@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel 👋
 <div style="inline-block">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NkbGdiNnhoajJydnE3eDZzOGN0NmNvNmlnZHBodnd3MHQ4d2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2M0LpzI4U5Sg5iErWL/giphy.gif" align="right" heigth="135" width="135">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NkbGdiNnhoajJydnE3eDZzOGN0NmNvNmlnZHBodnd3MHQ4d2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2M0LpzI4U5Sg5iErWL/giphy.gif" align="right" heigth="150" width="150">
 </div>
 
 ### Desenvolvedor em formação • Software • Matemática • Ciência
