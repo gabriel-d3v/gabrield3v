@@ -52,7 +52,7 @@ Hoje, meus principais interesses estão em:
 | :------------------- | :---------------------------------- |
 | **JavaScript**       | Desenvolvendo domínio avançado      |
 | **HTML & CSS**       | Intermediário                       |
-| **Node.js**          | Em aprendizado                      |
+| **Node.js**          | Em aprendizado...                   |
 | **Linux / Terminal** | Fundamentos/Básico                  |
 | **Python**           | Em aprendizado...                   |
 
