@@ -2,6 +2,10 @@
 
 ### Desenvolvedor em formação • Software • Matemática • Ciência
 
+<div style="inline-block">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NkbGdiNnhoajJydnE3eDZzOGN0NmNvNmlnZHBodnd3MHQ4d2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2M0LpzI4U5Sg5iErWL/giphy.gif" align="right" heigth="30" width="40">
+</div>
+
 Gosto de entender **como as coisas funcionam**, transformar problemas em lógica e usar programação para construir soluções.
 
 Atualmente estou desenvolvendo minha base em **Engenharia de Software**, enquanto exploro áreas que conectam **computação, matemática, dados, inteligência artificial e ciência**.
