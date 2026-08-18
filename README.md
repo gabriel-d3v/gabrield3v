@@ -1,7 +1,4 @@
 # Olá, eu sou o Gabriel 👋
-<div style="inline-block">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NkbGdiNnhoajJydnE3eDZzOGN0NmNvNmlnZHBodnd3MHQ4d2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2M0LpzI4U5Sg5iErWL/giphy.gif" align="right" heigth="155" width="155">
-</div>
 
 ### Desenvolvedor em formação • Software • Matemática • Ciência
 ---
@@ -13,6 +10,10 @@
 Sou autodidata por natureza e gosto de aprender de forma independente, explorando conceitos, testando ideias e transformando estudo em prática.
 
 Atualmente estou construindo minha base em Engenharia de Software, com **interesse especial na interseção entre computação, matemática, inteligência artificial e ciência.**
+
+<div style="inline-block">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NkbGdiNnhoajJydnE3eDZzOGN0NmNvNmlnZHBodnd3MHQ4d2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2M0LpzI4U5Sg5iErWL/giphy.gif" align="right" heigth="155" width="155">
+</div>
 
 ---
 
