@@ -33,15 +33,14 @@ Autodidata, gosto de entender como as coisas funcionam antes de usá-las. Estou 
 <!-- troque pelos seus repositórios reais — 2 a 4 projetos é o ideal -->
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [nome-do-projeto](https://github.com/seu-usuario/repo) | uma frase sobre o problema que ele resolve | Node.js, Express |
-| [nome-do-projeto-2](https://github.com/seu-usuario/repo2) | uma frase sobre o problema que ele resolve | Python |
+|  Em andamento... | Em andamento... |
 
 ## 📊 GitHub
 
 <!-- troque SEU_USUARIO pelo seu usuário nos dois links abaixo -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-d3v&show_icons=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-d3v&layout=compact&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
