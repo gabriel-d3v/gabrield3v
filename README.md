@@ -189,7 +189,7 @@ Aqui pretendo reunir projetos envolvendo:
 * 🔬 simulações científicas
 * 🏢 soluções para problemas reais
 
-Algumas iniciativas serão apenas pequenos experimentos, enquanto outras se tornarão projetos completos. O fundamental, no entanto, é observar o aprendizado e a evolução em cada etapa:"
+Algumas iniciativas serão apenas pequenos experimentos, enquanto outras se tornarão projetos completos. O fundamental, no entanto, é observar o aprendizado e a evolução em cada etapa:
 
 ```text
 aprender → construir → receber feedback → refatorar → evoluir
