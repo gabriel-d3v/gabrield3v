@@ -1,29 +1,32 @@
 # Olá, eu sou o Gabriel 👋
 
-### Desenvolvedor em formação • Tecnologia • Ciência • Matemática
+### Desenvolvedor em formação • Software • Matemática • Ciência
 
-Gosto de entender como as coisas funcionam, transformar problemas em lógica e usar programação para construir soluções.
+Gosto de entender **como as coisas funcionam**, transformar problemas em lógica e usar programação para construir soluções.
 
-Atualmente estou construindo minha base em desenvolvimento de software enquanto exploro áreas que conectam **computação, matemática, dados e ciência**.
+Atualmente estou desenvolvendo minha base em **Engenharia de Software**, enquanto exploro áreas que conectam **computação, matemática, dados, inteligência artificial e ciência**.
+
+```text
+curiosidade → fundamentos → prática → projetos → evolução
+```
 
 ---
 
 ## 🧭 Sobre mim
 
-```text
-curiosidade → estudo → experimentação → projetos → evolução
-```
+Minha prioridade não é apenas aprender frameworks ou decorar sintaxe.
 
-Não quero apenas aprender frameworks ou decorar sintaxe.
+Quero compreender os **fundamentos por trás da tecnologia**, desenvolver raciocínio computacional e aprender a construir software de forma cada vez mais organizada, eficiente e consciente.
 
-Quero entender os **fundamentos por trás da tecnologia**, escrever código melhor e, aos poucos, desenvolver projetos capazes de resolver problemas reais.
+Hoje, meus principais interesses estão em:
 
-- 💻 Estudando **desenvolvimento de software**
-- 🧠 Interessado em **algoritmos e estruturas de dados** & 📐 **matemática aplicada**
-- ⚙️ Aprendendo **backend e APIs**
-- 🐍 Explorando **Python e computação científica**
-- 🤖 Curioso sobre **IA, automação e dados**
-- 🔬 Fascinado pela interseção entre **ciência + computação**
+* 💻 **Engenharia de Software**
+* ⚙️ **Backend e APIs**
+* 🧠 **Algoritmos e Estruturas de Dados**
+* 📐 **Matemática Aplicada**
+* 🐍 **Python e Computação Científica**
+* 🤖 **Inteligência Artificial e Automação**
+* 🔬 **Computação aplicada à Ciência**
 
 ---
 
@@ -32,148 +35,205 @@ Quero entender os **fundamentos por trás da tecnologia**, escrever código melh
 ### Stack atual
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript — nível intermediário, evoluindo para avançado"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js — em aprendizado"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python — próximo passo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux — conhecimentos básicos"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
 </p>
 
-| Tecnologia | Nível |
-|---|---|
-| HTML / CSS | Sei usar |
-| Linux (terminal) | Básico |
-| JavaScript | Intermediário → avançado |
-| Node.js | Aprendendo |
-| Python | Vou começar em breve |
+| Tecnologia           | Momento atual                       |
+| :------------------- | :---------------------------------- |
+| **JavaScript**       | Desenvolvendo domínio intermediário |
+| **HTML & CSS**       | Intermediário                       |
+| **Node.js**          | Em aprendizado                      |
+| **Linux / Terminal** | Fundamentos                         |
+| **Python**           | Próxima etapa de aprofundamento     |
+
+> Meu objetivo é priorizar fundamentos e projetos reais antes de simplesmente aumentar a quantidade de tecnologias no currículo.
+
+---
+
+## 👨‍💻 Em código
 
 ```javascript
 const gabriel = {
-  momento: "construindo minha base",
-
-  estudando: [
+  focoAtual: [
     "JavaScript",
     "Node.js",
-    "Python",
     "Backend",
-    "APIs",
+    "APIs REST",
     "Banco de Dados",
     "Algoritmos",
     "Estruturas de Dados",
   ],
 
-  interesses: [
-    "Engenharia de Software",
+  explorando: [
+    "Python",
     "Computação Científica",
     "Inteligência Artificial",
+    "Automação",
     "Matemática Aplicada",
-    "Ciência",
   ],
 
-  objetivo: "usar tecnologia para resolver problemas",
+  filosofia: "entender antes de abstrair",
+
+  objetivo:
+    "usar computação, matemática e ciência para resolver problemas reais",
 };
 ```
 
 ---
 
-## 🔭 O que estou construindo
+## 🚀 Minha direção
 
-Minha jornada está concentrada em três pilares:
+Minha formação está sendo construída em três eixos principais.
 
-### 01 — Engenharia de Software
-
-```text
-JavaScript → Node.js → APIs REST → Banco de Dados → Arquitetura → Testes → Sistemas reais
-```
-
-Quero desenvolver uma base sólida para criar aplicações que não apenas funcionem, mas que sejam **organizadas, compreensíveis e sustentáveis**.
-
-### 02 — Matemática + Computação
+### 01. Engenharia de Software
 
 ```text
-Matemática + Programação → Modelagem → Simulações → Análise de dados → Computação Científica
+JavaScript
+    ↓
+Node.js
+    ↓
+APIs REST
+    ↓
+Banco de Dados
+    ↓
+Arquitetura
+    ↓
+Testes
+    ↓
+Sistemas reais
 ```
 
-Tenho interesse especial em entender como a programação pode ser usada para estudar fenômenos, criar modelos e resolver problemas quantitativos.
-
-### 03 — IA aplicada
-
-Não me interessa apenas usar IA como chatbot. Quero aprender a integrá-la a sistemas para:
-
-- automatizar processos;
-- analisar informações;
-- apoiar decisões;
-- trabalhar com dados;
-- construir ferramentas inteligentes;
-- resolver tarefas repetitivas de empresas e pessoas.
+Quero aprender a desenvolver aplicações que não apenas funcionem, mas que sejam **legíveis, organizadas, testáveis e sustentáveis**.
 
 ---
 
-## 🧪 Minha filosofia de aprendizado
+### 02. Matemática + Computação
+
+```text
+Matemática + Programação
+           ↓
+       Modelagem
+           ↓
+     Métodos Numéricos
+           ↓
+      Simulações
+           ↓
+ Computação Científica
+```
+
+Tenho interesse em usar programação como ferramenta para **modelar fenômenos, analisar dados, executar simulações e resolver problemas quantitativos**.
+
+---
+
+### 03. Inteligência Artificial aplicada
+
+Meu interesse em IA vai além do uso de chatbots.
+
+Quero entender como integrá-la a sistemas para:
+
+* automatizar processos;
+* analisar informações;
+* trabalhar com dados;
+* apoiar decisões;
+* reduzir tarefas repetitivas;
+* construir ferramentas inteligentes;
+* resolver problemas reais de pessoas e empresas.
+
+---
+
+## 🧪 Como eu aprendo
 
 > **Não quero apenas saber fazer. Quero entender como e por que funciona.**
 
 ```mermaid
 flowchart LR
-    A[📚 Aprender] --> B[🧠 Entender]
+    A[📚 Estudar] --> B[🧠 Entender]
     B --> C[💻 Construir]
-    C --> D[❌ Errar]
+    C --> D[🧪 Testar]
     D --> E[🔎 Investigar]
     E --> F[📈 Melhorar]
     F -.-> A
 ```
 
----
-
-## 🛠️ Projetos
-
-Aqui você encontrará projetos que representam minha evolução — alguns simples, outros experimentais, e alguns que podem virar algo maior.
-
-O objetivo é conseguir olhar para trás e enxergar claramente:
+Procuro transformar teoria em prática o mais rápido possível:
 
 ```text
-onde comecei → o que aprendi → o que consegui construir → como evoluí
+conceito → exercício → implementação → erro → investigação → projeto
 ```
-
-### Tipos de projetos que pretendo desenvolver
-
-- 🌐 aplicações web
-- ⚙️ APIs e sistemas backend
-- 📊 análise e visualização de dados
-- 🤖 automações com inteligência artificial
-- 🧮 algoritmos e matemática computacional
-- 🔬 simulações científicas
-- 🏢 soluções para problemas reais
 
 ---
 
-## 📚 Atualmente aprendendo
+## 🛠️ O que você encontrará aqui
+
+Este GitHub funciona também como um registro da minha evolução.
+
+Aqui pretendo reunir projetos envolvendo:
+
+* ⚙️ APIs e sistemas backend
+* 🌐 aplicações web
+* 🗄️ bancos de dados
+* 🤖 automações com IA
+* 📊 análise e visualização de dados
+* 🧠 algoritmos e estruturas de dados
+* 🧮 matemática computacional
+* 🔬 simulações científicas
+* 🏢 soluções para problemas reais
+
+Alguns projetos serão pequenos experimentos.
+
+Outros serão projetos completos.
+
+O importante é conseguir observar a evolução:
+
+```text
+aprender → construir → receber feedback → refatorar → evoluir
+```
+
+---
+
+## 📚 Atualmente estudando
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Software Engineering**
-- JavaScript
-- Node.js
-- APIs REST
-- SQL
-- Git
-- Linux
-- Algoritmos
-- Estruturas de Dados
+### 💻 Software
+
+* JavaScript
+* Node.js
+* Backend
+* HTTP
+* APIs REST
+* SQL
+* Git
+* Linux
+* Algoritmos
+* Estruturas de Dados
 
 </td>
-<td valign="top">
 
-**Matemática & Ciência**
-- Matemática
-- Probabilidade
-- Estatística
-- Álgebra Linear
-- Métodos Numéricos
-- Computação Científica
+<td width="50%" valign="top">
+
+### 📐 Matemática & Ciência
+
+* Matemática
+* Álgebra Linear
+* Probabilidade
+* Estatística
+* Métodos Numéricos
+* Python científico
+* Computação Científica
+* Modelagem
 
 </td>
 </tr>
@@ -181,40 +241,61 @@ onde comecei → o que aprendi → o que consegui construir → como evoluí
 
 ---
 
-## 🎯 Para onde penso em ir
+## 🎯 Para onde estou indo
 
-**Curto prazo:** Fundamentos → projetos → experiência → primeira oportunidade
-
-**Longo prazo:** construir uma formação que combine computação, matemática e ciência para a resolução de problemas reais.
+### Curto prazo
 
 ```text
-          COMPUTAÇÃO
-              │
-   ┌──────────┴──────────┐
-   │                     │
-MATEMÁTICA             CIÊNCIA
-   │                     │
-   └──────────┬──────────┘
-              ▼
-      RESOLUÇÃO DE
-      PROBLEMAS REAIS
+fundamentos → projetos → portfólio → experiência → primeira oportunidade
+```
+
+Quero construir uma base profissional sólida em desenvolvimento de software e transformar meus estudos em projetos demonstráveis.
+
+### Longo prazo
+
+Quero desenvolver uma formação na interseção entre:
+
+```text
+                 COMPUTAÇÃO
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+     MATEMÁTICA              CIÊNCIA
+          │                     │
+          └──────────┬──────────┘
+                     │
+                     ▼
+          MODELOS • SOFTWARE
+          DADOS • SIMULAÇÕES
+          AUTOMAÇÃO • PESQUISA
+                     │
+                     ▼
+          PROBLEMAS DO MUNDO REAL
 ```
 
 ---
 
-## 🌱 Status atual
+## 🌱 Momento atual
 
-`Fundamentos     ████████░░░░░░░░░░░░`
-`Projetos        ██████░░░░░░░░░░░░░░`
-`Experiência     ████░░░░░░░░░░░░░░░░`
-`Curiosidade     ████████████████████`
+```text
+Fundamentos      ███████████████░░░░░
+Projetos         █████████░░░░░░░░░░░
+Experiência      ████░░░░░░░░░░░░░░░░
+Curiosidade      █████████████████████
+```
 
-Ainda estou no começo — e esse é justamente o propósito deste GitHub: **documentar a minha construção.**
+Ainda estou construindo minha trajetória.
+
+E esse é justamente o propósito deste perfil:
+
+> **documentar o processo, transformar conhecimento em projetos e evoluir um pouco a cada versão.**
+
+---
 
 <p align="center">
-  <i>Aprendendo. Construindo. Experimentando. Evoluindo.</i>
+  <strong>Aprender • Entender • Construir • Evoluir</strong>
 </p>
 
 <p align="center">
-  🧠 + 💻 + 📐 + 🔬
+  🧠 &nbsp; × &nbsp; 💻 &nbsp; × &nbsp; 📐 &nbsp; × &nbsp; 🔬
 </p>
