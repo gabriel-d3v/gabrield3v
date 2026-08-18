@@ -33,7 +33,7 @@ Autodidata, gosto de entender como as coisas funcionam antes de usá-las. Estou 
 <!-- troque pelos seus repositórios reais — 2 a 4 projetos é o ideal -->
 | Projeto | O que faz | Stack |
 |---|---|---|
-|  Em andamento... | Em andamento... |
+|  Em andamento... | Em andamento... | Em andamento... |
 
 ## 📊 GitHub
 
