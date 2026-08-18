@@ -4,20 +4,17 @@
 </div>
 
 ### Desenvolvedor em formação • Software • Matemática • Ciência
-
-
-
-Gosto de entender **como as coisas funcionam**, transformar problemas em lógica e usar programação para construir soluções.
-
-Atualmente estou desenvolvendo minha base em **Engenharia de Software**, enquanto exploro áreas que conectam **computação, matemática, dados, inteligência artificial e ciência**.
-
-```text
-curiosidade → fundamentos → prática → projetos → evolução
-```
-
 ---
 
 ## 🧭 Sobre mim
+
+**Gosto de entender como as coisas funcionam**, transformar problemas em lógica e usar programação para construir soluções.
+
+Sou autodidata por natureza e gosto de aprender de forma independente, explorando conceitos, testando ideias e transformando estudo em prática.
+
+Atualmente estou construindo minha base em Engenharia de Software, com **interesse especial na interseção entre computação, matemática, inteligência artificial e ciência.**
+
+---
 
 Minha prioridade não é apenas aprender frameworks ou decorar sintaxe.
 
