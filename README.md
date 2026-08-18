@@ -50,13 +50,13 @@ Hoje, meus principais interesses estão em:
 
 | Tecnologia           | Momento atual                       |
 | :------------------- | :---------------------------------- |
-| **JavaScript**       | Desenvolvendo domínio avançado      |
+| **JavaScript**       | Aprofundando conceitos avançados    |
 | **HTML & CSS**       | Intermediário                       |
-| **Node.js**          | Em aprendizado...                   |
+| **Node.js**          | 	Fundamentos de backend e APIs      |
 | **Linux / Terminal** | Fundamentos/Básico                  |
-| **Python**           | Em aprendizado...                   |
+| **Python**           | Primeiros passos                    |
 
-> Meu objetivo é priorizar fundamentos e projetos reais antes de simplesmente aumentar a quantidade de tecnologias no currículo.
+Meu objetivo é priorizar fundamentos e projetos reais antes de simplesmente aumentar a quantidade de tecnologias no currículo.
 
 ---
 
