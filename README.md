@@ -50,11 +50,11 @@ Hoje, meus principais interesses estão em:
 
 | Tecnologia           | Momento atual                       |
 | :------------------- | :---------------------------------- |
-| **JavaScript**       | Desenvolvendo domínio intermediário |
+| **JavaScript**       | Desenvolvendo domínio avançado      |
 | **HTML & CSS**       | Intermediário                       |
 | **Node.js**          | Em aprendizado                      |
-| **Linux / Terminal** | Fundamentos                         |
-| **Python**           | Próxima etapa de aprofundamento     |
+| **Linux / Terminal** | Fundamentos/Básico                  |
+| **Python**           | Em aprendizado...                   |
 
 > Meu objetivo é priorizar fundamentos e projetos reais antes de simplesmente aumentar a quantidade de tecnologias no currículo.
 
@@ -110,7 +110,7 @@ Arquitetura
     ↓
 Testes
     ↓
-Sistemas reais
+Sistemas
 ```
 
 Quero aprender a desenvolver aplicações que não apenas funcionem, mas que sejam **legíveis, organizadas, testáveis e sustentáveis**.
@@ -189,11 +189,7 @@ Aqui pretendo reunir projetos envolvendo:
 * 🔬 simulações científicas
 * 🏢 soluções para problemas reais
 
-Alguns projetos serão pequenos experimentos.
-
-Outros serão projetos completos.
-
-O importante é conseguir observar a evolução:
+Algumas iniciativas serão apenas pequenos experimentos, enquanto outras se tornarão projetos completos. O fundamental, no entanto, é observar o aprendizado e a evolução em cada etapa:"
 
 ```text
 aprender → construir → receber feedback → refatorar → evoluir
