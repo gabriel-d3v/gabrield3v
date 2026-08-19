@@ -2,7 +2,7 @@
 
 **Desenvolvedor em formação** · Backend & APIs · Matemática Aplicada
 
-Autodidata, gosto de entender como as coisas funcionam antes de usá-las. Estou construindo minha base em Engenharia de Software com foco em JavaScript/Node.js, e explorando Python, matemática aplicada e IA para resolver problemas reais.
+Autodidata, gosto de entender como as coisas funcionam antes de usá-las. Estou construindo minha base em Engenharia de Software com foco em JavaScript/Node.js, e explorando Python, matemática aplicada e IA para resolver problemas.
 
 <!-- edite ou remova esta linha com seus dados -->
 📍 São Paulo(SP) &nbsp;·&nbsp; ✉️ gabrielsaleso.dev@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/gabriel-sales-69b0a736a)
